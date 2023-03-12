@@ -9,16 +9,15 @@
 
 - 🌙 For support of need of help, Join my discord! **SOON**
 
-<h1 align="center">Features in Lunar Eclipse</h1>
-These are features inside Lunar Eclipse
+<h1 align="center">Need help?</h1>
+Visit these links for help
 
-- Admin join notifier
-
-- Game Ban Detector (BETA)
-
-- Anti-cheat bypass (BETA)
-
-- **MORE COMING SOON**
+[![website](./img/youtube-light.svg)](https://youtube.com/commonsense1262#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/commonsense1262#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/sense_common12#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/sense_common12#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 <h1 align="center">My Graph Stats</h1>
 
