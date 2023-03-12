@@ -12,9 +12,9 @@
 <h1 align="center">Need help?</h1>
 These are website if you'd need help, Just contact me!
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@CommonSense1262)
+[![website](./img/youtube.svg)](https://www.youtube.com/@CommonSense1262)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/@sense_common12)
+[![website](./img/twitter.svg)](https://twitter.com/@sense_common12)
 &nbsp;&nbsp;
 
 <h1 align="center">My Graph Stats</h1>
