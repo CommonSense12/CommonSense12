@@ -11,6 +11,8 @@
 
 <h1 align="center">Social Media</h1>
 
+𝐍𝐞𝐞𝐝 𝐡𝐞𝐥𝐩? 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐢𝐧 𝐭𝐰𝐢𝐭𝐭𝐞𝐫 𝐨𝐫 𝐬𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐭𝐨 𝐦𝐲 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐭𝐨 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐦𝐞!
+
 [![website](./img/youtube-light.svg)](https://youtube.com/@commonsense1262#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/@commonsense1262#gh-dark-mode-only)
 [![website](./img/twitter-light.svg)](https://twitter.com/sense12_common#gh-light-mode-only)
