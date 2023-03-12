@@ -13,7 +13,6 @@
 
 [![website](./img/youtube-light.svg)](https://youtube.com/commonsense1262#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/commonsense1262#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 <h1 align="center">My Graph Stats</h1>
 
