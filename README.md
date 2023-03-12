@@ -9,6 +9,15 @@
 
 - 🌙 For support of need of help, Join my discord! **SOON**
 
+<h1 align="center">Social Media</h1>
+
+[![website](./img/youtube-light.svg)](https://youtube.com/commonsense1262#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/commonsense1262#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/sense_common12#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/sense_common12#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 <h1 align="center">My Graph Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=commonsense12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="commonsense12" /></p>
