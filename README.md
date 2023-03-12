@@ -17,5 +17,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=commonsense12&&theme=tokyonight" alt="commonsense12" /></p>
 
+[![Lunar Eclipse](https://github-readme-stats.vercel.app/api/pin/?username=commonsense12&repo=lunar-eclipse&theme=tokyonight)](https://github.com/CommonSense12/Lunar-Eclipse)
 
 
