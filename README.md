@@ -9,6 +9,17 @@
 
 - 🌙 For support of need of help, Join my discord! **SOON**
 
+<h1 align="center">Features in Lunar Eclipse</h1>
+These are features inside Lunar Eclipse
+
+- Admin join notifier
+
+- Game Ban Detector (BETA)
+
+- Anti-cheat bypass (BETA)
+
+- **MORE COMING SOON**
+
 <h1 align="center">My Graph Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=commonsense12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="commonsense12" /></p>
