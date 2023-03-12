@@ -6,3 +6,5 @@
 - 🎉 I do not do collaborations, But If you would like just ask me!
 
 - 🎊 I created Lunar Eclipse, The future of Roblox Universal Scripthub
+
+- 🌙 For support of need of help, Join my discord! **SOON**
