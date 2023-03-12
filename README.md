@@ -9,14 +9,6 @@
 
 - 🌙 For support of need of help, Join my discord! **SOON**
 
-<h1 align="center">Need help?</h1>
-These are website if you'd need help, Just contact me!
-
-[![website](./img/youtube.svg)](https://www.youtube.com/@CommonSense1262)
-&nbsp;&nbsp;
-[![website](./img/twitter.svg)](https://twitter.com/@sense_common12)
-&nbsp;&nbsp;
-
 <h1 align="center">My Graph Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=commonsense12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="commonsense12" /></p>
