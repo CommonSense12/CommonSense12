@@ -10,10 +10,10 @@
 - 🌙 For support of need of help, Join my discord! **SOON**
 
 <h1 align="center">Need help?</h1>
-Visit these links for help
+These are website if you'd need help, Just contact me!
 
-[![website](./img/youtube-light.svg)](https://youtube.com/commonsense1262#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/commonsense1262#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/CommonSense1262#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/CommonSense1262#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/sense_common12#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/sense_common12#gh-dark-mode-only)
